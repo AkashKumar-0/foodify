@@ -10,37 +10,34 @@
     justify-content: space-between;
     align-items: center;
     margin-left: 4rem;
-    color: $color-grad-2;
-
+    // font-weight: bolder;
+    color: #111;
     font-family: cursive;
+
     img {
-      height: 3.5rem;
+      height: 4rem;
     }
     h2 {
-      padding-left: 20px;
-      font-size: 3em;
-      letter-spacing: 2px;
-    }
-
-    span {
       font-family: 'Island Moments', cursive;
+      transform: translateY(3px);
+      padding-left: 20px;
+      font-size: 4em;
+      letter-spacing: 2px;
     }
   }
 }
-
 .search {
-  // border: 1px solid red;
   background-color: #fff;
   border-radius: 10rem;
   display: flex;
+  height: 4rem;
   align-items: center;
   padding-left: 3rem;
-  height: 4rem;
   transition: all 0.3s;
 
   &:focus-within {
     // transform: translateY(-2px);
-    box-shadow: 0 0 0.7rem 0.2rem rgba($color-grey-dark-1, 0.08);
+    box-shadow: 0 0.7rem 3rem rgba($color-grey-dark-1, 0.08);
   }
 
   &__field {
@@ -132,7 +129,6 @@
   width: 40rem;
   background-color: #fff;
   box-shadow: 0 0.8rem 5rem 2rem rgba($color-grey-dark-1, 0.1);
-
   visibility: hidden;
   opacity: 0;
   transition: all 0.5s 0.2s;

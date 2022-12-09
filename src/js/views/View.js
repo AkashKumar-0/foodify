@@ -3,13 +3,26 @@ import icons from 'url:../../img/icons.svg'; //this is a new syntax
 export default class View {
   _parentEl = document.querySelector('.recipe'); //same as recipeContainer
   _data;
+  _message;
 
-  render(data) {
+  /**
+   * Render the received object to the DOM
+   * @param {Object | Object[]} data The data to be rendered (e.g. recipe)
+   * @param {boolean} [render=true] If false, create markup string instead of rendering to the DOM
+   * @returns {undefined | string} A markup string is returned if render=false
+   * @this {Object} View instance
+   * @author Jonas Schmedtmann
+   * @todo Finish implementation
+   */
+  render(data, render = true) {
     if (!data || (Array.isArray(data) && data.length === 0))
       return this.showError();
 
     this._data = data;
     const markup = this._generateMarkup();
+
+    if (!render) return markup;
+
     this.clearAndInsert(markup);
   }
 
@@ -52,10 +65,23 @@ export default class View {
     this._parentEl.insertAdjacentHTML('afterbegin', htmlContent);
   }
 
-  //------- for timout error case : all this isn't private bcz we want to access this in other file like controller amd model etc -------\\
+  //-------- for rendering the spinner ----------\\
+  renderSpinner() {
+    const html = `
+          <div class="spinner">
+            <svg>
+              <use href="${icons}#icon-loader"></use>
+            </svg>
+          </div>
+    `;
+    this.clearAndInsert(html);
+  }
 
-  //-------- for rendering the error ----------\\
-
+  /**
+   *
+   * @param {*} errMSG
+   * @return html tag with error msg
+   */
   showError(errMSG = this._errMSG) {
     const html = `
       <div class="error">
@@ -70,19 +96,7 @@ export default class View {
     this.clearAndInsert(html);
   }
 
-  //-------- for rendering the spinner ----------\\
-  renderSpinner() {
-    const html = `
-            <div class="spinner">
-              <svg>
-                <use href="${icons}#icon-loader"></use>
-              </svg>
-            </div>
-      `;
-    this.clearAndInsert(html);
-  }
-
-  renderMessage(errMSG = this._errMSG) {
+  renderMessage(errMSG = this._message) {
     const html = `
       <div class="message">
       <div>

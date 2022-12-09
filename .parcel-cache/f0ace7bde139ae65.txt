@@ -1,28 +1,25 @@
-7648
+7646
 72/home/akash/Technical/JS/18-forkify/starter/forkify-flowchart-part-3.png1661945601243808000 0
 61/home/akash/Technical/JS/18-forkify/starter/package-lock.json1670340857417935732 0
-68/home/akash/Technical/JS/18-forkify/starter/dist/starter.3464ddca.js1669797880281478636 0
-72/home/akash/Technical/JS/18-forkify/starter/dist/starter.3464ddca.js.map1669797880285477492 0
-71/home/akash/Technical/JS/18-forkify/starter/dist/index.f7626f62.css.map1670492484958070166 0
-59/home/akash/Technical/JS/18-forkify/starter/dist/index.html1670492484950070166 0
-70/home/akash/Technical/JS/18-forkify/starter/dist/index.e37f48ea.js.map1670493748279739947 0
-66/home/akash/Technical/JS/18-forkify/starter/dist/index.62406edb.js1669797880281478636 0
-66/home/akash/Technical/JS/18-forkify/starter/dist/index.e37f48ea.js1670493748275739212 0
-64/home/akash/Technical/JS/18-forkify/starter/src/js/views/View.js1670493313199720356 0
-56/home/akash/Technical/JS/18-forkify/starter/src/js/views1670317051424293907 1
-62/home/akash/Technical/JS/18-forkify/starter/src/sass/main.scss1661945601247808000 0
-72/home/akash/Technical/JS/18-forkify/starter/src/sass/_searchResults.scss1670008930823286587 0
-65/home/akash/Technical/JS/18-forkify/starter/src/sass/_header.scss1670361137736530989 0
-65/home/akash/Technical/JS/18-forkify/starter/src/sass/_upload.scss1661945601247808000 0
-69/home/akash/Technical/JS/18-forkify/starter/src/sass/_components.scss1661945601247808000 0
-65/home/akash/Technical/JS/18-forkify/starter/src/sass/_recipe.scss1670008248456488637 0
+71/home/akash/Technical/JS/18-forkify/starter/dist/index.f7626f62.css.map1670544343639494276 0
+59/home/akash/Technical/JS/18-forkify/starter/dist/index.html1670544343631493834 0
+70/home/akash/Technical/JS/18-forkify/starter/dist/index.e37f48ea.js.map1670544437800372285 0
+66/home/akash/Technical/JS/18-forkify/starter/dist/index.e37f48ea.js1670544437792371897 0
+64/home/akash/Technical/JS/18-forkify/starter/src/js/views/View.js1670533728424674051 0
+56/home/akash/Technical/JS/18-forkify/starter/src/js/views1670524122204658512 1
+62/home/akash/Technical/JS/18-forkify/starter/src/sass/main.scss1661945601231808000 0
+72/home/akash/Technical/JS/18-forkify/starter/src/sass/_searchResults.scss1670518014501171300 0
+65/home/akash/Technical/JS/18-forkify/starter/src/sass/_header.scss1670523689724618436 0
+65/home/akash/Technical/JS/18-forkify/starter/src/sass/_upload.scss1661945601231808000 0
+69/home/akash/Technical/JS/18-forkify/starter/src/sass/_components.scss1661945601231808000 0
+65/home/akash/Technical/JS/18-forkify/starter/src/sass/_recipe.scss1670518333927232315 0
 61/home/akash/Technical/JS/18-forkify/starter/src/img/icons.svg1661945601243808000 0
 60/home/akash/Technical/JS/18-forkify/starter/src/img/logo.png1661945601247808000 0
 51/home/akash/Technical/JS/18-forkify/starter/src/img1661945601243808000 1
-47/home/akash/Technical/JS/18-forkify/starter/src1661945601247808000 1
+47/home/akash/Technical/JS/18-forkify/starter/src1670517570397216615 1
 83/home/akash/Technical/JS/18-forkify/starter/forkify-architecture-recipe-loading.png1661945601235808000 0
-56/home/akash/Technical/JS/18-forkify/starter/package.json1670340811074474422 0
-54/home/akash/Technical/JS/18-forkify/starter/index.html1670360906926583638 0
+56/home/akash/Technical/JS/18-forkify/starter/package.json1670544157003674892 0
+54/home/akash/Technical/JS/18-forkify/starter/index.html1670530896003603509 0
 74/home/akash/Technical/JS/18-forkify/starter/node_modules/binary-extensions1669797704631458295 1
 76/home/akash/Technical/JS/18-forkify/starter/node_modules/callsites/readme.md1669797607195114429 0
 79/home/akash/Technical/JS/18-forkify/starter/node_modules/callsites/package.json1669797607119120357 0
@@ -173,7 +170,7 @@
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_define_property.js1669797607351102259 0
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_write_only_error.js1669797607395098827 0
 101/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_class_private_field_get.js1669797607303106004 0
-52/home/akash/Technical/JS/18-forkify/starter/src/sass1661945601247808000 1
+52/home/akash/Technical/JS/18-forkify/starter/src/sass1661945601231808000 1
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_sliced_to_array.js1669797607379100075 0
 111/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_class_check_private_static_access.js1669797607287107251 0
 105/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_check_private_redeclaration.js1669797607267108812 0
@@ -606,7 +603,7 @@
 90/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/number/to-fixed.js1669825785513231854 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/number/parse-float.js1669825785393222616 0
 104/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/number/virtual/to-exponential.js1669825785509231545 0
-63/home/akash/Technical/JS/18-forkify/starter/src/sass/_base.scss1661945601247808000 0
+63/home/akash/Technical/JS/18-forkify/starter/src/sass/_base.scss1661945601231808000 0
 98/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/number/virtual/to-fixed.js1669825785513231854 0
 86/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/number/virtual1669825785521232469 1
 78/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/number1669825785521232469 1
@@ -711,7 +708,7 @@
 89/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/every.js1669825785109200753 0
 88/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/bind.js1669825784953188497 0
 88/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/sort.js1669825785469228466 0
-66/home/akash/Technical/JS/18-forkify/starter/src/sass/_preview.scss1670425329667178729 0
+66/home/akash/Technical/JS/18-forkify/starter/src/sass/_preview.scss1670535508125878807 0
 92/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/for-each.js1669825785165205064 0
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/to-spliced.js1669825785529233085 0
 90/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/filter.js1669825785121201677 0
@@ -864,7 +861,7 @@
 102/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/array/virtual/last-index-of.js1669825785333217997 0
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/array/virtual/concat.js1669825784969189811 0
 101/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/array/virtual/group-to-map.js1669825785205208143 0
-60/home/akash/Technical/JS/18-forkify/starter/src/js/config.js1670405374280613365 0
+60/home/akash/Technical/JS/18-forkify/starter/src/js/config.js1670532286563643714 0
 90/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/instance/reduce.js1669825785417224463 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/array/virtual/entries.js1669825785017193671 0
 91/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/stable/typed-array/find.js1669825785149203832 0
@@ -1033,7 +1030,7 @@
 104/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/esnext.typed-array.unique-by.js1669825785109200753 0
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/es.array.find-index.js1669825785025194286 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/es.string.pad-end.js1669825785057196750 0
-64/home/akash/Technical/JS/18-forkify/starter/src/js/controller.js1670493748163718665 0
+64/home/akash/Technical/JS/18-forkify/starter/src/js/controller.js1670544379425421899 0
 89/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/es.array.from.js1669825785029194595 0
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/esnext.global-this.js1669825785085198905 0
 91/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/esnext.set.from.js1669825785097199829 0
@@ -1518,6 +1515,7 @@
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/typed-array/uint16-array.js1669825785561235548 0
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/typed-array/reduce-right.js1669825785413224155 0
 86/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/typed-array/set.js1669825785449226927 0
+74/home/akash/Technical/JS/18-forkify/starter/src/js/views/addRecipe.View.js1670538285606748560 0
 91/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/array/virtual/values.js1669825785577236780 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/typed-array/int8-array.js1669825785285214302 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/typed-array/float64-array.js1669825785161204756 0
@@ -2013,7 +2011,6 @@
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/jpegxl.js1669797607527088530 0
 99/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/runtime-react-refresh/package.json1669797607211113180 0
 80/home/akash/Technical/JS/18-forkify/starter/node_modules/is-arrayish/.travis.yml1669797607223112244 0
-70/home/akash/Technical/JS/18-forkify/starter/dist/index.62406edb.js.map1669797880285477492 0
 102/home/akash/Technical/JS/18-forkify/starter/node_modules/@swc/helpers/lib/_async_generator_delegate.js1669797607231111620 0
 102/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/esnext.object.iterate-keys.js1669825785097199829 0
 108/home/akash/Technical/JS/18-forkify/starter/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c1669797607383099763 0
@@ -2320,7 +2317,7 @@
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/bigint.js1669797607391099139 0
 105/home/akash/Technical/JS/18-forkify/starter/node_modules/@jridgewell/gen-mapping/dist/gen-mapping.mjs.map1669797607223112244 0
 91/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/json.js1669797607527088530 0
-61/home/akash/Technical/JS/18-forkify/starter/src/js/helpers.js1670405440235931172 0
+61/home/akash/Technical/JS/18-forkify/starter/src/js/helpers.js1670534884786848130 0
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/css-has.js1669797607471092898 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/function/virtual/bind.js1669825784953188497 0
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/array-set-length.js1669825784921185870 0
@@ -2681,7 +2678,7 @@
 88/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/regions/CK.js1669797607427096331 0
 82/home/akash/Technical/JS/18-forkify/starter/node_modules/chokidar/lib/constants.js1669797704627461063 0
 104/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/fs-search/fs-search.win32-x64-msvc.node1669797607451094458 0
-67/home/akash/Technical/JS/18-forkify/starter/dist/icons.21bad73c.svg1670492484974070166 0
+67/home/akash/Technical/JS/18-forkify/starter/dist/icons.21bad73c.svg1670544343711498251 0
 80/home/akash/Technical/JS/18-forkify/starter/node_modules/fill-range/package.json1669797704619466600 0
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/array/virtual/find-last.js1669825785141203216 0
 98/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/videotracks.js1669797607559086034 0
@@ -2738,6 +2735,7 @@
 76/home/akash/Technical/JS/18-forkify/starter/node_modules/escalade/index.d.ts1669797607239110996 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/webvtt.js1669797607563085722 0
 88/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/regions/EG.js1669797607511089779 0
+74/home/akash/Technical/JS/18-forkify/starter/src/js/views/bookmarks.View.js1670544437704367617 0
 100/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/transformer-js/src/JSTransformer.js1669797607251110060 0
 81/home/akash/Technical/JS/18-forkify/starter/node_modules/escalade/sync/index.d.ts1669797607243110684 0
 80/home/akash/Technical/JS/18-forkify/starter/node_modules/escalade/sync/index.mjs1669797607227111932 0
@@ -3144,7 +3142,7 @@
 104/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/keyboardevent-key.js1669797607531088218 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/es/typed-array/find-index.js1669825785133202601 0
 87/home/akash/Technical/JS/18-forkify/starter/node_modules/@babel/code-frame/lib/index.js1669797607183115364 0
-43/home/akash/Technical/JS/18-forkify/starter1669797880241490071 1
+43/home/akash/Technical/JS/18-forkify/starter1670538699142522912 1
 88/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/regions/ET.js1669797607515089466 0
 78/home/akash/Technical/JS/18-forkify/starter/node_modules/browserslist/index.js1669797607215112868 0
 81/home/akash/Technical/JS/18-forkify/starter/node_modules/timsort/build/timsort.js1669797607231111620 0
@@ -3330,7 +3328,7 @@
 108/home/akash/Technical/JS/18-forkify/starter/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.c1669797607379100075 0
 110/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js1669797607263109124 0
 86/home/akash/Technical/JS/18-forkify/starter/node_modules/nullthrows/nullthrows.js.flow1669797607199114116 0
-69/home/akash/Technical/JS/18-forkify/starter/dist/favicon.8b2f57bf.png1670492484986070166 0
+69/home/akash/Technical/JS/18-forkify/starter/dist/favicon.8b2f57bf.png1670544343723498913 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/actual/date/to-iso-string.js1669825785513231854 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/typed-array/to-reversed.js1669825785529233085 0
 105/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/features/typed-array/to-locale-string.js1669825785517232161 0
@@ -4752,7 +4750,7 @@
 112/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/mdn-text-decoration-color.js1669797607535087907 0
 110/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/focusin-focusout-events.js1669797607519089154 0
 97/home/akash/Technical/JS/18-forkify/starter/node_modules/css-tree/lib/syntax/node/MediaFeature.js1669797607451094458 0
-59/home/akash/Technical/JS/18-forkify/starter/src/js/model.js1670406337034481399 0
+59/home/akash/Technical/JS/18-forkify/starter/src/js/model.js1670536554834134462 0
 109/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/css-media-range-syntax.js1669797607479092275 0
 146/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules1669797607359101636 1
 107/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/esnext.reflect.has-own-metadata.js1669825785097199829 0
@@ -5270,6 +5268,7 @@
 104/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/transformer-sass/lib/SassTransformer.js1669797706530151809 0
 85/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/transformer-sass/src1669797706530151809 1
 84/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/events/src/index.js1669797607251110060 0
+72/home/akash/Technical/JS/18-forkify/starter/src/js/views/preview.View.js1670536119889158486 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/proposals/using-statement.js1669825785577236780 0
 78/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/packager-html1669797607219112557 1
 84/home/akash/Technical/JS/18-forkify/starter/node_modules/domutils/lib/stringify.d.ts1669797607319104755 0
@@ -5424,7 +5423,7 @@
 109/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/keyboardevent-location.js1669797607531088218 0
 92/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/indexed-object.js1669825785281213994 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/features/object/from-entries.js1669825785173205680 0
-67/home/akash/Technical/JS/18-forkify/starter/dist/index.f7626f62.css1670492484954070166 0
+67/home/akash/Technical/JS/18-forkify/starter/dist/index.f7626f62.css1670544343591491624 0
 85/home/akash/Technical/JS/18-forkify/starter/node_modules/terser/lib/compress/index.js1669797607407097891 0
 97/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/events/test/ValueEmitter.test.js1669797607275108187 0
 109/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/page-transition-events.js1669797607543087283 0
@@ -5983,7 +5982,7 @@
 90/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/entry-unbind.js1669825785021193978 0
 100/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/text-emphasis.js1669797607555086347 0
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/package-manager/lib/types.d.ts1669797607423096643 0
-67/home/akash/Technical/JS/18-forkify/starter/dist/icons.dfd7a6db.svg1670492484974070166 0
+67/home/akash/Technical/JS/18-forkify/starter/dist/icons.dfd7a6db.svg1670544343711498251 0
 80/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/features/string1669825785557235240 1
 100/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/features/string/virtual/fontsize.js1669825785165205064 0
 93/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/package-manager/lib/index.js1669797607275108187 0
@@ -6573,7 +6572,7 @@
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/typed-array/to-sorted.js1669825785529233085 0
 84/home/akash/Technical/JS/18-forkify/starter/node_modules/binary-extensions/readme.md1669797704631458295 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/get-async-iterator.js1669825785181206295 0
-71/home/akash/Technical/JS/18-forkify/starter/src/js/views/result.View.js1670423631762865400 0
+71/home/akash/Technical/JS/18-forkify/starter/src/js/views/result.View.js1670544418295411940 0
 87/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/typed-array/at.js1669825784949188169 0
 91/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/typed-array/reduce.js1669825785421224771 0
 104/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/typed-array/uint8-clamped-array.js1669825785561235548 0
@@ -6609,7 +6608,7 @@
 97/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/typed-array/uint32-array.js1669825785561235548 0
 97/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/watcher/src/windows/win_utils.cc1669797607307105691 0
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/features/instance/pad-start.js1669825785389222308 0
-72/home/akash/Technical/JS/18-forkify/starter/src/js/views/recipe.Views.js1670493522849969978 0
+72/home/akash/Technical/JS/18-forkify/starter/src/js/views/recipe.Views.js1670535963899428988 0
 80/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/observable1669825785261212454 1
 87/home/akash/Technical/JS/18-forkify/starter/node_modules/@babel/code-frame/package.json1669797607195114429 0
 86/home/akash/Technical/JS/18-forkify/starter/node_modules/@parcel/types/lib/unsafe.d.ts1669797607275108187 0
@@ -6878,7 +6877,7 @@
 94/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/esnext.set.add-all.js1669825785097199829 0
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/observable-forced.js1669825785381221692 0
 83/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/math/isubh.js1669825785309216149 0
-48/home/akash/Technical/JS/18-forkify/starter/dist1670493748279739947 1
+48/home/akash/Technical/JS/18-forkify/starter/dist1670544437800372285 1
 95/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/modules/es.string.ends-with.js1669825785053196442 0
 92/home/akash/Technical/JS/18-forkify/starter/node_modules/css-tree/lib/syntax/pseudo/index.js1669797607439095394 0
 83/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/full/math/scale.js1669825785437226003 0
@@ -7501,7 +7500,6 @@
 81/home/akash/Technical/JS/18-forkify/starter/node_modules/nth-check/lib/compile.js1669797607175115989 0
 101/home/akash/Technical/JS/18-forkify/starter/node_modules/caniuse-lite/data/features/pointer-events.js1669797607543087283 0
 89/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/is-callable.js1669825785289214610 0
-66/home/akash/Technical/JS/18-forkify/starter/dist/logo.726d37a8.png1670341031428443430 0
 101/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/dom-exception-constants.js1669825785005192747 0
 96/home/akash/Technical/JS/18-forkify/starter/node_modules/core-js/internals/string-html-forced.js1669825785489230006 0
 116/home/akash/Technical/JS/18-forkify/starter/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.c1669797607391099139 0

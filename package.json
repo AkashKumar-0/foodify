@@ -2,10 +2,10 @@
   "name": "foodify",
   "version": "1.0.0",
   "description": "food application",
-  "main": "controller.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir"
   },
   "author": "akash",
   "license": "ISC",

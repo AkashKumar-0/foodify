@@ -259,7 +259,7 @@ body {
 }
 
 .header__logo {
-  color: #f48982;
+  color: #111;
   justify-content: space-between;
   align-items: center;
   margin-left: 4rem;
@@ -268,17 +268,15 @@ body {
 }
 
 .header__logo img {
-  height: 3.5rem;
+  height: 4rem;
 }
 
 .header__logo h2 {
   letter-spacing: 2px;
   padding-left: 20px;
-  font-size: 3em;
-}
-
-.header__logo span {
   font-family: Island Moments, cursive;
+  font-size: 4em;
+  transform: translateY(3px);
 }
 
 .search {
@@ -292,7 +290,7 @@ body {
 }
 
 .search:focus-within {
-  box-shadow: 0 0 .7rem .2rem #61555114;
+  box-shadow: 0 .7rem 3rem #61555114;
 }
 
 .search__field {
@@ -421,7 +419,6 @@ body {
 
 .preview__link:hover {
   background-color: #f9f5f3;
-  transform: scale(1.1);
 }
 
 .preview__link--active {
@@ -454,6 +451,7 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  font-size: .5em;
   transition: all .3s;
   display: block;
 }
@@ -504,8 +502,6 @@ body {
 }
 
 .search-results {
-  background-color: #f9f5f3;
-  border-right: 1px solid #fff;
   flex-direction: column;
   padding: 3rem 0;
   display: flex;
@@ -547,7 +543,6 @@ body {
 }
 
 .recipe {
-  z-index: 100;
   background-color: #f9f5f3;
 }
 
